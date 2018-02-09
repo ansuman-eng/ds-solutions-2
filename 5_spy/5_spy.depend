@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510486332 source:c:\users\asus\desktop\5_spy\main.c
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<math.h>
+
